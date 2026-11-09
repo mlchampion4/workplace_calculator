@@ -112,7 +112,7 @@ Linux: если Tkinter отсутствует — sudo apt install python3-tk.
 
 ## Структура проекта
 
-    workplace-calculator/
+    workplace_calculator/
     ├── .gitignore
     ├── README.md
     ├── app/
