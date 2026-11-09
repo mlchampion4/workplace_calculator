@@ -78,7 +78,7 @@
 Клонировать репозиторий:
 
     git clone https://github.com/mlchampion4/workplace_calculator.git
-    cd workplace-calculator
+    cd workplace_calculator
 
 Создать виртуальное окружение и активировать:
 
